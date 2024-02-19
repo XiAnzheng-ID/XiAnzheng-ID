@@ -16,18 +16,19 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
   <a href="https://www.cheatengine.org/"><img align="left" alt="Cheat Engine" title="Cheat Engine" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Cheat_Engine_2023_Vector_Logo.svg" /></a>
   <br>
 
+### Have Worked with
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="#"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
+  <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCSS" title="NodeJS" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+  <br>
+
 ### Basic Knowledge
   <a href="#"><img align="left" alt="C++" title="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
   <a href="#"><img align="left" alt="HTML" title="HTML" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
   <a href="#"><img align="left" alt="CSS" title="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
   <br>
 
-### Have Worked with
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="#"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
-  <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
-  <br>
-  
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/XiAnzheng-ID">
