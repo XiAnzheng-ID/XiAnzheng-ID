@@ -1,5 +1,5 @@
 ### Welcome to my Github page 👋
-Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project project.
+Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.
 
 - 🔭 I’m currently working on my game hacking tool for a game called Death road to canada <a href="https://github.com/XiAnzheng-ID/Death-Road-2-Canada-Trainer-by-XiAnzheng">(Check it here)</a>
 - 🌱 I’m currently Studying about Mobile Development in Bangkit Academy
@@ -18,6 +18,8 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
 
 ### Basic Knowledge
   <a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
+  <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
   <br>
 
 ### Have Worked with
