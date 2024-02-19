@@ -1,4 +1,4 @@
-### Welcome to my Github page 👋
+# Welcome to my Github page 👋
 Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.
 
 - 🔭 I’m currently working on my game hacking tool for a game called Death road to canada <a href="https://github.com/XiAnzheng-ID/Death-Road-2-Canada-Trainer-by-XiAnzheng">(Check it here)</a>
