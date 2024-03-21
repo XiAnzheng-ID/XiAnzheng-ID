@@ -8,8 +8,6 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
 ### My Interest
 - Reverse Engineering
 - Game Hacking
-- App Development
-- Game Development
 
 ### My Skills
   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
