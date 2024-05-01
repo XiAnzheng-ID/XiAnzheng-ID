@@ -18,7 +18,8 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="#"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
   <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCSS" title="NodeJS" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCSS" title="TailwindCSS" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
   <br>
 
 ### Basic Knowledge
