@@ -3,7 +3,7 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
 
 - 🔭 I’m currently working on my game hacking tool for a game called Death road to canada <a href="https://github.com/XiAnzheng-ID/Death-Road-2-Canada-Trainer-by-XiAnzheng">(Check it here)</a>
 - 🌱 I’m currently Studying about Mobile Development in Bangkit Academy
-- ⚡ Fun fact: Bad at Assembly and Reverse Engineering
+- ⚡ Fun fact: Bad at Assembly , Reverse Engineering , UI/UX
 
 ### My Interest
 - Reverse Engineering
