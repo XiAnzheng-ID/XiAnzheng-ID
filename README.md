@@ -1,9 +1,9 @@
 <h1 align="center"> Welcome to my Github page 👋</h1>
 Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.
 
-- 🔭 I’m currently working on my game hacking tool for a game called Death road to canada <a href="https://github.com/XiAnzheng-ID/Death-Road-2-Canada-Trainer-by-XiAnzheng">(Check it here)</a>
-- 🌱 I’m currently Studying about Mobile Development in Bangkit Academy
-- ⚡ Fun fact: Bad at Assembly , Reverse Engineering , UI/UX
+- 🔭 Created a game trainer for Death Road to Canada and a Ransomware Protection Tool called RansomPyShield
+- 🌱 Mobile Development Graduate at Bangkit Academy 2024
+- ⚡ Fun fact: Bad at Assembly , Reverse Engineering , UI/UX (but iam trying my best to learn them)
 
 ### My Interest
 - Reverse Engineering
