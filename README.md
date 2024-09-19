@@ -10,8 +10,8 @@ Just a random Gunadarma University Student who loves to tinkering with Code and 
 # 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/XiAnzheng-ID">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XiAnzheng-ID&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XiAnzheng-ID&layout=compact&langs_count=8&theme=rose"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XiAnzheng-ID&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XiAnzheng-ID&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
 
