@@ -1,5 +1,6 @@
 # 💫 About Me:
-Just a random Gunadarma University Student who loves to tinkering with Code and Game! <br>I've enjoyed using Python and make it the main language in creating most of my project.<br>🔭 Created a game trainer for Death Road to Canada and a Ransomware Protection Tool called RansomPyShield<br>🌱 Mobile Development Graduate at Bangkit Academy 2024 Batch 1<br>⚡ Fun fact: Trying to Learning Assembly , Reverse Engineering , UI/UX<br><br>My Interest:<br>-Reverse Engineering<br>-Game Hacking<br>-Malware Analysis<br>
+Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.
+<br>🔭 Created a game trainer for Death Road to Canada and a Ransomware Protection Tool called RansomPyShield<br>🌱 Mobile Development Graduate at Bangkit Academy 2024 Batch 1<br>⚡ Fun fact: Trying to Learning Assembly , Reverse Engineering , UI/UX<br><br>My Interest:<br>-Reverse Engineering<br>-Game Hacking<br>-Malware Analysis<br>
 
 
 ## 🌐 Socials:
