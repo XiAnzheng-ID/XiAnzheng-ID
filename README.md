@@ -1,38 +1,19 @@
-<h1 align="center"> Welcome to my Github page 👋</h1>
-Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.
+# 💫 About Me:
+Just a random Gunadarma University Student who loves to tinkering with Code and Game! I've enjoyed using Python and make it the main language in creating most of my project.<br>🔭 Created a game trainer for Death Road to Canada and a Ransomware Protection Tool called RansomPyShield<br>🌱 Mobile Development Graduate at Bangkit Academy 2024 Batch 1<br>⚡ Fun fact: Trying to Learning Assembly , Reverse Engineering , UI/UX<br><br>My Interest:<br>Reverse Engineering<br>Game Hacking<br>Malware Analysis
 
-- 🔭 Created a game trainer for Death Road to Canada and a Ransomware Protection Tool called RansomPyShield
-- 🌱 Mobile Development Graduate at Bangkit Academy 2024
-- ⚡ Fun fact: Bad at Assembly , Reverse Engineering , UI/UX (but iam trying my best to learn them)
 
-### My Interest
-- Reverse Engineering
-- Game Hacking
-- Malware Analysis
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Devin Nathanael) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.nthnl) 
 
-### My Skills
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-  <a href="https://www.cheatengine.org/"><img align="left" alt="Cheat Engine" title="Cheat Engine" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Cheat_Engine_2023_Vector_Logo.svg" /></a>
-  <br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XiAnzheng-ID&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XiAnzheng-ID&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XiAnzheng-ID&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Have Worked with
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="#"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
-  <a href="https://nodejs.org/en"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
-  <a href="https://tailwindcss.com/"><img align="left" alt="TailwindCSS" title="TailwindCSS" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
-  <br>
+---
+[![](https://visitcount.itsvg.in/api?id=XiAnzheng-ID&icon=0&color=5)](https://visitcount.itsvg.in)
 
-### Basic Knowledge
-  <a href="#"><img align="left" alt="C++" title="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
-  <a href="#"><img align="left" alt="HTML" title="HTML" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-  <a href="#"><img align="left" alt="CSS" title="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
-  <br>
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/XiAnzheng-ID">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XiAnzheng-ID&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XiAnzheng-ID&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XiAnzeng) 
