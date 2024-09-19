@@ -23,11 +23,5 @@ My Interest:
 </a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=XiAnzheng-ID&icon=0&color=5)](https://visitcount.itsvg.in)
-
 ## 💰 Wanna Donate?
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XiAnzeng) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
