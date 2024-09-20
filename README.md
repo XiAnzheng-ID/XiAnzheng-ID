@@ -23,6 +23,3 @@ My Interest:
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XiAnzheng-ID&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-## 💰 Wanna Donate?
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XiAnzeng) 
